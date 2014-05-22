@@ -1,0 +1,5 @@
+deploy/
+resources-old/
+src/votebattle.min.js
+compiler.jar
+full-deploy.sh
